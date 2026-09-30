@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taus Elham Tamjid</h1>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/tauselhamtamjid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tauselhamtamjid" height="30" width="40" /></a>
 <a href="https://twitter.com/tauselhamtamjid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tauselhamtamjid" height="30" width="40" /></a>
 <a href="https://fb.com/tauselhamtamjid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tauselhamtamjid" height="30" width="40" /></a>
 <a href="https://instagram.com/tauselham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tauselham" height="30" width="40" /></a>
